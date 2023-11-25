@@ -1,1 +1,6 @@
-to
+shortcuts/keys used in IDE like vscode / replit
+1) to commit - ctrl+/
+2) to shift line up/down - alt + arrow up/down
+3) to have multiple cursors - alt + click where u want more cursors
+4) to have same content of one line as such in very next line -
+    ctrl c + ctrl v | alt + shift + down-arrow
